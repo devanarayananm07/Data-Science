@@ -15,9 +15,14 @@ print("Sorted array:",arr)
    OUTPUT
 ===========
 
-C:\Users\mlm\PycharmProjects\pythonProject\venv\Scripts\python.exe C:\Users\mlm\PycharmProjects\pythonProject\gcd.py 
-Enter 1st number:60
-Enter 2nd number:48
-The gcd of 60 and 48 is :  12
+C:\Users\mlm\PycharmProjects\pythonProject\venv\Scripts\python.exe C:\Users\mlm\PycharmProjects\pythonProject\bubblesort.py 
+Enter the no.of elements:5
+Enter element 1:10
+Enter element 2:6
+Enter element 3:36
+Enter element 4:32
+Enter element 5:2
+Array: [10, 6, 36, 32, 2]
+Sorted array: [2, 6, 10, 32, 36]
 
 Process finished with exit code 0
