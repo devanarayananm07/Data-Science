@@ -12,7 +12,7 @@ print(np.linalg.inv(n))
 print("matrix rank")
 print(np.linalg.matrix_rank(n))
 
-RESULT
+OUTPUT
 ------
 C:\Users\mlm\PycharmProjects\pythonProject\venv\Scripts\python.exe C:\Users\mlm\PycharmProjects\pythonProject\venv\randomarray.py 
 [[9 2]
