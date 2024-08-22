@@ -28,7 +28,7 @@ print(np.trace(arr1))
 
 
 
-   RESULT
+   OUTPUT
    ------
 
    C:\Users\mlm\PycharmProjects\pythonProject\venv\Scripts\python.exe C:\Users\mlm\PycharmProjects\pythonProject\venv\arraycalc.py 
