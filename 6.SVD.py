@@ -17,7 +17,7 @@ print("Reconstructed Matrix:\n",B)
 
 output
 =====================
-C:\Users\mlm\PycharmProjects\BIBIN\venv\Scripts\python.exe C:\Users\mlm\PycharmProjects\venv\svd.py 
+C:\Users\mlm\PycharmProjects\pythonProject\venv\Scripts\python.exe C:\Users\mlm\PycharmProjects\pythonProject\venv\svd.py 
 [[1 2]
  [3 4]]
 Left Singular Matrix
